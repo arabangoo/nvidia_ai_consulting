@@ -369,7 +369,3 @@ nvidia_dataset_curation/
 ## 라이선스 및 기여
 
 이 프로젝트는 NVIDIA NeMo Curator를 기반으로 합니다. 자세한 라이선스 정보는 [NeMo Curator GitHub](https://github.com/NVIDIA/NeMo-Curator)를 참조하세요.
-
----
-
-**마지막 업데이트**: 2024년 11월
