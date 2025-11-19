@@ -762,7 +762,7 @@ kubectl -n mlflow port-forward service/mlflow-tracking 30090:80 --address 0.0.0.
 
 ## 라이선스
 
-이 프로젝트는 NVIDIA NeMo Microservices를 기반으로 합니다. 
+이 프로젝트는 NVIDIA NeMo Microservices를 기반으로 합니다.    
 자세한 라이선스 정보는 [NVIDIA 소프트웨어 라이선스 계약](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/)을 참조하세요.
 
 
