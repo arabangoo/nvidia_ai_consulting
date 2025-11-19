@@ -602,5 +602,5 @@ with open("training.jsonl") as f:
 
 ## 라이선스
 
-이 프로젝트는 NVIDIA NeMo Framework를 기반으로 합니다. 
+이 프로젝트는 NVIDIA NeMo Framework를 기반으로 합니다.    
 자세한 라이선스 정보는 [NVIDIA 오픈 소스 라이선스](https://github.com/NVIDIA/NeMo/blob/main/LICENSE)를 참조하세요.
