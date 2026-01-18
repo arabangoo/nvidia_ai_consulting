@@ -942,13 +942,6 @@ opensm --force_heavy_sweep
 
 ## 참고 자료
 
-### 공식 문서
-
-- [NVIDIA MLNX_OFED Documentation](https://docs.nvidia.com/networking/display/MLNXOFEDv24101140)
-- [NVIDIA InfiniBand Documentation](https://docs.nvidia.com/networking/category/infinibandproducts)
-- [RDMA Core Userspace Library](https://github.com/linux-rdma/rdma-core)
-- [OpenSM Documentation](https://docs.nvidia.com/networking/display/opensm)
-
 ### 유용한 명령어 요약
 
 ```bash
