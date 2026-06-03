@@ -2,7 +2,7 @@
 
 이 가이드는 NVIDIA DGX Spark를 처음 다루는 개발자가 박스를 여는 순간부터 로컬 LLM·이미지 생성·AI 에이전트까지 직접 구축할 수 있도록 작성되었습니다.
 
-> **실전 경험 + 공식 스펙 기반 가이드**: 이 문서는 DGX OS 적응, JupyterLab 첫 추론, 정밀도/양자화, 원격 접속(Tailscale + NVIDIA Sync), Docker 기반 Open WebUI, Ollama + gpt-oss, ComfyUI, 그리고 OpenClaw + Nemotron 로컬 에이전트까지 전 과정을 다룹니다.
+> **공식 스펙 기반 가이드**: 이 문서는 DGX OS 적응, JupyterLab 첫 추론, 정밀도/양자화, 원격 접속(Tailscale + NVIDIA Sync), Docker 기반 Open WebUI, Ollama + gpt-oss, ComfyUI, 그리고 OpenClaw + Nemotron 로컬 에이전트까지 전 과정을 다룹니다.
 
 ## 목차
 
